@@ -1,0 +1,951 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:fillViewport="true">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:scrollbars="vertical">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="2dp" >
+
+                <TextView
+                    android:id="@+id/textView1"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:gravity="right"
+                    android:text="@string/txt_userid"
+                    android:width="80dp" />
+
+                <EditText
+                    android:id="@+id/editText1"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:ems="10"
+                    android:inputType="numberDecimal"
+                    android:singleLine="true" >
+
+                    <requestFocus />
+                </EditText>
+
+            </LinearLayout>
+
+            <!--Matric Number-->
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="2dp" >
+
+                <TextView
+                    android:id="@+id/txt_matricno"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:gravity="right"
+                    android:text="Matric No."
+                    android:width="80dp" />
+
+                <EditText
+                    android:id="@+id/matricno"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:ems="10"
+                    android:singleLine="true" />
+
+            </LinearLayout>
+
+            <!--First Name-->
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="2dp" >
+
+                <TextView
+                    android:id="@+id/txt_firstname"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:gravity="right"
+                    android:text="First Name"
+                    android:width="80dp" />
+
+                <EditText
+                    android:id="@+id/firstname"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:ems="10"
+                    android:singleLine="true" />
+
+            </LinearLayout>
+
+            <!--last name-->
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="2dp" >
+
+                <TextView
+                    android:id="@+id/txt_lastname"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:gravity="right"
+                    android:text="Last Name"
+                    android:width="80dp" />
+
+                <EditText
+                    android:id="@+id/lastname"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:ems="10"
+                    android:singleLine="true" />
+
+            </LinearLayout>
+
+            <!--Middle name-->
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="2dp" >
+
+                <TextView
+                    android:id="@+id/txt_middlename"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:gravity="right"
+                    android:text="Middle Name"
+                    android:width="80dp" />
+
+                <EditText
+                    android:id="@+id/middlename"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:ems="10"
+                    android:singleLine="true" />
+
+            </LinearLayout>
+
+            <!--Mother's Maiden name-->
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="2dp" >
+
+                <TextView
+                    android:id="@+id/txt_maidenname"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:gravity="right"
+                    android:text="Maiden Name"
+                    android:width="80dp" />
+
+                <EditText
+                    android:id="@+id/maidenname"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:ems="10"
+                    android:singleLine="true" />
+
+            </LinearLayout>
+
+            <!--Date of birth-->
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="2dp" >
+
+                <TextView
+                    android:id="@+id/textView2"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:gravity="right"
+                    android:text="Date of birth"
+                    android:width="80dp" />
+
+                <EditText
+                    android:id="@+id/editText2"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:editable="false"
+                    android:ems="10"
+                    android:singleLine="true" />
+
+            </LinearLayout>
+
+            <!--Sex-->
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="2dp" >
+
+                <TextView
+                    android:id="@+id/textView3"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:gravity="right"
+                    android:text="Sex"
+                    android:width="80dp" />
+
+                <Spinner
+                    android:id="@+id/spinner1"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:prompt="@string/us_prompt" />
+                <!--
+                <EditText
+                    android:id="@+id/editText3"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:ems="10" />
+                -->
+
+            </LinearLayout>
+
+            <!--Marrital Status-->
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="2dp" >
+
+                <TextView
+                    android:id="@+id/textView4"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:gravity="right"
+                    android:text="Marrital Status"
+                    android:width="80dp" />
+
+                <Spinner
+                    android:id="@+id/spinner2"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:prompt="@string/us_prompt" />
+                <!--
+                <EditText
+                    android:id="@+id/editText4"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:ems="10" />
+                -->
+
+            </LinearLayout>
+
+            <!--Religion-->
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="2dp" >
+
+                <TextView
+                    android:id="@+id/txt_religion"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:gravity="right"
+                    android:text="Religion"
+                    android:width="80dp" />
+
+                <Spinner
+                    android:id="@+id/religion"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:entries="@array/us3_array"
+                    android:prompt="@string/us_prompt"
+                    android:spinnerMode="dropdown" />
+                <!--
+                <EditText
+                    android:id="@+id/editText4"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:ems="10" />
+                -->
+
+            </LinearLayout>
+
+            <!-- Photo -->
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="2dp" >
+
+                <TextView
+                    android:id="@+id/textView5"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:gravity="right"
+                    android:text="@string/txt_photo"
+                    android:width="80dp" />
+
+                <EditText
+                    android:id="@+id/editText5"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:editable="false"
+                    android:ems="10" />
+
+                <ImageView
+                    android:id="@+id/imageView1"
+                    android:layout_width="48dp"
+                    android:layout_height="48dp"
+                    android:src="@drawable/guest" />
+            </LinearLayout>
+
+            <!--Fingerprint Index R-->
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="2dp" >
+
+                <TextView
+                    android:id="@+id/textView6a"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:width="80dp"
+                    android:gravity="right"
+                    android:text="Fingerprint: Thumb(R)" />
+
+                <EditText
+                    android:id="@+id/editText6a"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:editable="false"
+                    android:ems="10" />
+
+                <ImageView
+                    android:id="@+id/imageViewa2"
+                    android:layout_width="48dp"
+                    android:layout_height="48dp"
+                    android:src="@drawable/fingerprint" />
+
+            </LinearLayout>
+
+            <!--Fingerprint Pinky R-->
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="2dp" >
+
+                <TextView
+                    android:id="@+id/textView26"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:width="80dp"
+                    android:gravity="right"
+                    android:text="Fingerprint: Index (R)" />
+
+                <EditText
+                    android:id="@+id/editText26"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:editable="false"
+                    android:ems="10" />
+
+                <ImageView
+                    android:id="@+id/imageView12"
+                    android:layout_width="48dp"
+                    android:layout_height="48dp"
+                    android:src="@drawable/fingerprint" />
+
+            </LinearLayout>
+
+            <!--Fingerprint Index L-->
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="2dp" >
+
+                <TextView
+                    android:id="@+id/textView6"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:width="80dp"
+                    android:gravity="right"
+                    android:text="Fingerprint: Thumb (L)" />
+
+                <EditText
+                    android:id="@+id/editText6"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:editable="false"
+                    android:ems="10" />
+
+                <ImageView
+                    android:id="@+id/imageView2"
+                    android:layout_width="48dp"
+                    android:layout_height="48dp"
+                    android:src="@drawable/fingerprint" />
+
+            </LinearLayout>
+
+            <!--Fingerprint Pinky L-->
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="2dp" >
+
+                <TextView
+                    android:id="@+id/textView7"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:width="80dp"
+                    android:gravity="right"
+                    android:text="Fingerprint: Index (L)" />
+
+                <EditText
+                    android:id="@+id/editText7"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:editable="false"
+                    android:ems="10" />
+
+                <ImageView
+                    android:id="@+id/imageView3"
+                    android:layout_width="48dp"
+                    android:layout_height="48dp"
+                    android:src="@drawable/fingerprint" />
+
+            </LinearLayout>
+
+            <!-- SSN 1D -->
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="2dp" >
+
+                <TextView
+                    android:id="@+id/textView8"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:width="80dp"
+                    android:gravity="right"
+                    android:text="SNN (1D)" />
+
+                <EditText
+                    android:id="@+id/editText8"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:singleLine="true"
+                    android:ems="10" />
+
+                <ImageView
+                    android:id="@+id/imageView4"
+                    android:layout_width="48dp"
+                    android:layout_height="48dp"
+                    android:src="@drawable/barcode" />
+
+            </LinearLayout>
+
+            <!-- SSN 2D -->
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="2dp" >
+
+                <TextView
+                    android:id="@+id/textView9"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:gravity="right"
+                    android:text="SNN (2D)"
+                    android:width="80dp" />
+
+                <EditText
+                    android:id="@+id/editText9"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:singleLine="true"
+                    android:ems="10" />
+
+                <ImageView
+                    android:id="@+id/imageView5"
+                    android:layout_width="48dp"
+                    android:layout_height="48dp"
+                    android:src="@drawable/generate" />
+
+            </LinearLayout>
+
+            <!--Scratch Card-->
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="2dp" >
+
+                <TextView
+                    android:id="@+id/textView10"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:gravity="right"
+                    android:text="Card"
+                    android:width="80dp" />
+
+                <EditText
+                    android:id="@+id/editText10"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:singleLine="true"
+                    android:ems="10" />
+
+                <ImageView
+                    android:id="@+id/imageView6"
+                    android:layout_width="48dp"
+                    android:layout_height="48dp"
+                    android:src="@drawable/rfid" />
+
+            </LinearLayout>
+
+            <!--Card Serial Number-->
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="2dp" >
+
+                <TextView
+                    android:id="@+id/txt_cardserial"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:gravity="right"
+                    android:text="Card Serial Number"
+                    android:width="80dp" />
+
+                <EditText
+                    android:id="@+id/cardserial"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:singleLine="true"
+                    android:ems="10" />
+
+
+                <ImageView
+                    android:id="@+id/imageViewcard"
+                    android:layout_width="48dp"
+                    android:layout_height="48dp"
+                    android:src="@drawable/rfid" />
+            </LinearLayout>
+
+            <!--Email address-->
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="2dp" >
+
+                <TextView
+                    android:id="@+id/textView11"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:gravity="right"
+                    android:text="Email Address"
+                    android:width="80dp" />
+
+                <EditText
+                    android:id="@+id/editText11"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:singleLine="true"
+                    android:ems="10" />
+
+
+            </LinearLayout>
+
+            <!-- Phone number-->
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="2dp" >
+
+                <TextView
+                    android:id="@+id/textView111"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:gravity="right"
+                    android:text="Phone Number"
+                    android:width="80dp" />
+
+                <EditText
+                    android:id="@+id/editText111"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:singleLine="true"
+                    android:ems="10" />
+
+
+            </LinearLayout>
+
+            <!--Contact address-->
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="2dp" >
+
+                <TextView
+                    android:id="@+id/textView11a"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:gravity="right"
+                    android:text="Contact Address"
+                    android:width="80dp" />
+
+                <EditText
+                    android:id="@+id/editText11a"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:singleLine="true"
+                    android:ems="10" />
+
+
+            </LinearLayout>
+
+            <!--Nationality-->
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="2dp" >
+
+                <TextView
+                    android:id="@+id/textView11b"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:gravity="right"
+                    android:text="Nationality"
+                    android:width="80dp" />
+
+                <Spinner
+                    android:id="@+id/nationality"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:prompt="@string/us_prompt"
+                    android:entries="@array/us4_array"/>
+
+
+
+            </LinearLayout>
+
+            <!--State of origin-->
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="2dp" >
+
+                <TextView
+                    android:id="@+id/textView11d"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:gravity="right"
+                    android:text="State of origin"
+                    android:width="80dp" />
+
+                <Spinner
+                    android:id="@+id/state"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:prompt="@string/us_prompt"/>
+
+
+            </LinearLayout>
+
+            <!--Local Government Ares-->
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="2dp" >
+
+                <TextView
+                    android:id="@+id/textView11e"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:gravity="right"
+                    android:text="Local Government"
+                    android:width="80dp" />
+
+                <Spinner
+                    android:id="@+id/lga"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:prompt="@string/us_prompt" />
+
+
+            </LinearLayout>
+
+            <!--Next of Kin name-->
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="2dp" >
+
+                <TextView
+                    android:id="@+id/textView11c"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:gravity="right"
+                    android:text="NOK Name"
+                    android:width="80dp" />
+
+                <EditText
+                    android:id="@+id/editText11c"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:singleLine="true"
+                    android:ems="10" />
+
+
+            </LinearLayout>
+
+            <!--Next of Kin Address-->
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="2dp" >
+
+                <TextView
+                    android:id="@+id/txt_nokaddres"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:gravity="right"
+                    android:text="NOK Address"
+                    android:width="80dp" />
+
+                <EditText
+                    android:id="@+id/nokaddress"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:singleLine="true"
+                    android:ems="10" />
+
+
+            </LinearLayout>
+
+            <!--Next of Kin Phone Number-->
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="2dp" >
+
+                <TextView
+                    android:id="@+id/txt_nokphone"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:gravity="right"
+                    android:text="NOK Phone"
+                    android:width="80dp" />
+
+                <EditText
+                    android:id="@+id/nokphone"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:singleLine="true"
+                    android:ems="10" />
+
+
+            </LinearLayout>
+
+            <!--Next of Kin Email Address-->
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="2dp" >
+
+                <TextView
+                    android:id="@+id/txt_nokemail"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:gravity="right"
+                    android:text="NOK Email Address"
+                    android:width="80dp" />
+
+                <EditText
+                    android:id="@+id/nokemail"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:singleLine="true"
+                    android:ems="10" />
+
+
+            </LinearLayout>
+
+            <!--Home town-->
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="2dp" >
+
+                <TextView
+                    android:id="@+id/txt_hometown"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:gravity="right"
+                    android:text="Home Town"
+                    android:width="80dp" />
+
+                <EditText
+                    android:id="@+id/hometown"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:singleLine="true"
+                    android:ems="10" />
+
+
+            </LinearLayout>
+
+            <!--Faculty-->
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="2dp" >
+
+                <TextView
+                    android:id="@+id/txt_faculty"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:gravity="right"
+                    android:text="Faculty"
+                    android:width="80dp" />
+
+                <Spinner
+                    android:id="@+id/faculty"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:prompt="@string/us_faculties" />
+
+
+            </LinearLayout>
+
+            <!--Department-->
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="2dp" >
+
+                <TextView
+                    android:id="@+id/txt_department"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:gravity="right"
+                    android:text="Department"
+                    android:width="80dp" />
+
+                <Spinner
+                    android:id="@+id/department"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:prompt="@string/us_departments" />
+            </LinearLayout>
+
+            <!--Area of specialization-->
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="2dp" >
+
+                <TextView
+                    android:id="@+id/txt_specialization"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:gravity="right"
+                    android:text="Area of specialty"
+                    android:width="80dp" />
+
+                <EditText
+                    android:id="@+id/specialization"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:singleLine="true"
+                    android:ems="10" />
+
+
+            </LinearLayout>
+
+            <!--Academic Level-->
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="2dp" >
+
+                <TextView
+                    android:id="@+id/txt_accademiclevel"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:gravity="right"
+                    android:text="Academic Level"
+                    android:width="80dp" />
+
+                <EditText
+                    android:id="@+id/academiclevel"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:singleLine="true"
+                    android:ems="10" />
+
+
+            </LinearLayout>
+
+            <!--Academic Session-->
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="2dp" >
+
+                <TextView
+                    android:id="@+id/txt_academicsession"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:gravity="right"
+                    android:text="Academic Session"
+                    android:width="80dp" />
+
+                <Spinner
+                    android:id="@+id/session"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:prompt="@string/us_prompt"
+                    android:entries="@array/sessions"/>
+
+
+            </LinearLayout>
+
+
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

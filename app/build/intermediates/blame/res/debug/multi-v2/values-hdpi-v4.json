@@ -1,0 +1,28 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-hdpi-v4\\values-hdpi-v4.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Ezenna Charles\\.gradle\\caches\\transforms-2\\files-2.1\\adab3ec3f1aa3ff88343f51936393fb0\\appcompat-v7-23.0.1\\res\\values-hdpi\\values-hdpi.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "4",
+                        "startOffsets": "286",
+                        "endLines": "8",
+                        "endColumns": "13",
+                        "endOffsets": "558"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "6",
+                        "endColumns": "13",
+                        "endOffsets": "327"
+                    }
+                }
+            ]
+        }
+    ]
+}

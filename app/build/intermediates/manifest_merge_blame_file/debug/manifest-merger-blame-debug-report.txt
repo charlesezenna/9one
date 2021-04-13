@@ -1,0 +1,394 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.fgtit.finger" >
+4
+5    <uses-sdk
+6        android:minSdkVersion="19"
+6-->/home/ezenna/Desktop/Android/9one/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml
+7        android:targetSdkVersion="30" />
+7-->/home/ezenna/Desktop/Android/9one/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml
+8
+9    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+9-->/home/ezenna/Desktop/Android/9one/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:7:5-79
+9-->/home/ezenna/Desktop/Android/9one/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:7:22-76
+10    <uses-permission android:name="android.permission.CHANGE_NETWORK_STATE" />
+10-->/home/ezenna/Desktop/Android/9one/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:8:5-79
+10-->/home/ezenna/Desktop/Android/9one/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:8:22-76
+11    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+11-->/home/ezenna/Desktop/Android/9one/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:9:5-81
+11-->/home/ezenna/Desktop/Android/9one/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:9:22-78
+12    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+12-->/home/ezenna/Desktop/Android/9one/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:10:5-80
+12-->/home/ezenna/Desktop/Android/9one/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:10:22-77
+13    <uses-permission android:name="android.permission.WRITE_SETTINGS" />
+13-->/home/ezenna/Desktop/Android/9one/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:11:5-73
+13-->/home/ezenna/Desktop/Android/9one/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:11:22-70
+14    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+14-->/home/ezenna/Desktop/Android/9one/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:12:5-76
+14-->/home/ezenna/Desktop/Android/9one/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:12:22-73
+15    <uses-permission android:name="android.permission.CHANGE_WIFI_MULTICAST_STATE" />
+15-->/home/ezenna/Desktop/Android/9one/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:13:5-86
+15-->/home/ezenna/Desktop/Android/9one/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:13:22-83
+16    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE" />
+16-->/home/ezenna/Desktop/Android/9one/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:14:5-76
+16-->/home/ezenna/Desktop/Android/9one/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:14:22-73
+17    <uses-permission android:name="android.permission.WAKE_LOCK" />
+17-->/home/ezenna/Desktop/Android/9one/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:15:5-68
+17-->/home/ezenna/Desktop/Android/9one/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:15:22-65
+18    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+18-->/home/ezenna/Desktop/Android/9one/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:16:5-79
+18-->/home/ezenna/Desktop/Android/9one/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:16:22-76
+19    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+19-->/home/ezenna/Desktop/Android/9one/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:17:5-81
+19-->/home/ezenna/Desktop/Android/9one/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:17:22-78
+20    <uses-permission android:name="android.permission.CAMERA" />
+20-->/home/ezenna/Desktop/Android/9one/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:18:5-65
+20-->/home/ezenna/Desktop/Android/9one/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:18:22-62
+21    <uses-permission android:name="android.permission.BLUETOOTH_ADMIN" />
+21-->/home/ezenna/Desktop/Android/9one/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:19:5-74
+21-->/home/ezenna/Desktop/Android/9one/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:19:22-71
+22    <uses-permission android:name="android.permission.BLUETOOTH" />
+22-->/home/ezenna/Desktop/Android/9one/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:20:5-68
+22-->/home/ezenna/Desktop/Android/9one/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:20:22-65
+23    <uses-permission android:name="android.permission.GET_ACCOUNTS" />
+23-->/home/ezenna/Desktop/Android/9one/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:21:5-71
+23-->/home/ezenna/Desktop/Android/9one/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:21:22-68
+24    <uses-permission android:name="android.permission.USE_CREDENTIALS" />
+24-->/home/ezenna/Desktop/Android/9one/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:22:5-74
+24-->/home/ezenna/Desktop/Android/9one/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:22:22-71
+25    <uses-permission android:name="android.permission.MANAGE_ACCOUNTS" />
+25-->/home/ezenna/Desktop/Android/9one/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:23:5-74
+25-->/home/ezenna/Desktop/Android/9one/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:23:22-71
+26    <uses-permission android:name="android.permission.AUTHENTICATE_ACCOUNTS" />
+26-->/home/ezenna/Desktop/Android/9one/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:24:5-80
+26-->/home/ezenna/Desktop/Android/9one/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:24:22-77
+27    <uses-permission android:name="android.permission.INTERNET" />
+27-->/home/ezenna/Desktop/Android/9one/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:25:5-67
+27-->/home/ezenna/Desktop/Android/9one/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:25:22-64
+28    <uses-permission android:name="com.android.launcher.permission.READ_SETTINGS" />
+28-->/home/ezenna/Desktop/Android/9one/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:27:5-85
+28-->/home/ezenna/Desktop/Android/9one/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:27:22-82
+29    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE" />
+29-->/home/ezenna/Desktop/Android/9one/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:14:5-76
+29-->/home/ezenna/Desktop/Android/9one/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:14:22-73
+30    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+30-->/home/ezenna/Desktop/Android/9one/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:29:5-75
+30-->/home/ezenna/Desktop/Android/9one/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:29:22-72
+31    <uses-permission android:name="android.permission.BROADCAST_STICKY" />
+31-->/home/ezenna/Desktop/Android/9one/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:30:5-75
+31-->/home/ezenna/Desktop/Android/9one/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:30:22-72
+32    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+32-->/home/ezenna/Desktop/Android/9one/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:29:5-75
+32-->/home/ezenna/Desktop/Android/9one/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:29:22-72
+33    <uses-permission android:name="android.permission.CAMERA" />
+33-->/home/ezenna/Desktop/Android/9one/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:18:5-65
+33-->/home/ezenna/Desktop/Android/9one/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:18:22-62
+34    <uses-permission android:name="android.permission.VIBRATE" />
+34-->/home/ezenna/Desktop/Android/9one/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:33:5-66
+34-->/home/ezenna/Desktop/Android/9one/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:33:22-63
+35    <uses-permission android:name="android.permission.FLASHLIGHT" />
+35-->/home/ezenna/Desktop/Android/9one/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:34:5-69
+35-->/home/ezenna/Desktop/Android/9one/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:34:22-66
+36    <uses-permission android:name="android.permission.NFC" />
+36-->/home/ezenna/Desktop/Android/9one/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:35:5-62
+36-->/home/ezenna/Desktop/Android/9one/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:35:22-59
+37    <uses-permission android:name="android.permission.MOUNT_UNMOUNT_FILESYSTEMS" />
+37-->/home/ezenna/Desktop/Android/9one/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:36:5-84
+37-->/home/ezenna/Desktop/Android/9one/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:36:22-81
+38    <uses-permission android:name="android.permission.SEND_SMS" />
+38-->/home/ezenna/Desktop/Android/9one/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:37:5-67
+38-->/home/ezenna/Desktop/Android/9one/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:37:22-64
+39    <uses-permission android:name="android.permission.BAIDU_LOCATION_SERVICE" />
+39-->/home/ezenna/Desktop/Android/9one/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:38:5-81
+39-->/home/ezenna/Desktop/Android/9one/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:38:22-78
+40
+41    <uses-feature android:name="android.hardware.camera" />
+41-->/home/ezenna/Desktop/Android/9one/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:40:5-60
+41-->/home/ezenna/Desktop/Android/9one/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:40:19-57
+42    <uses-feature android:name="android.hardware.camera.autofocus" />
+42-->/home/ezenna/Desktop/Android/9one/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:41:5-70
+42-->/home/ezenna/Desktop/Android/9one/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:41:19-67
+43    <uses-feature
+43-->/home/ezenna/Desktop/Android/9one/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:42:5-44:35
+44        android:name="android.hardware.nfc"
+44-->/home/ezenna/Desktop/Android/9one/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:43:9-44
+45        android:required="true" />
+45-->/home/ezenna/Desktop/Android/9one/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:44:9-32
+46    <uses-feature
+46-->[com.google.android.gms:play-services-maps:9.8.0] /home/ezenna/.gradle/caches/transforms-2/files-2.1/0033dbc31e33b4ea2442ae41af598a6f/play-services-maps-9.8.0/AndroidManifest.xml:21:5-77
+47        android:glEsVersion="0x00020000"
+47-->[com.google.android.gms:play-services-maps:9.8.0] /home/ezenna/.gradle/caches/transforms-2/files-2.1/0033dbc31e33b4ea2442ae41af598a6f/play-services-maps-9.8.0/AndroidManifest.xml:21:19-51
+48        android:required="true" />
+48-->[com.google.android.gms:play-services-maps:9.8.0] /home/ezenna/.gradle/caches/transforms-2/files-2.1/0033dbc31e33b4ea2442ae41af598a6f/play-services-maps-9.8.0/AndroidManifest.xml:21:52-75
+49
+50    <application
+50-->/home/ezenna/Desktop/Android/9one/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:46:5-183:19
+51        android:name="com.fgtit.app.AppClass"
+51-->/home/ezenna/Desktop/Android/9one/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:50:9-46
+52        android:allowBackup="true"
+52-->/home/ezenna/Desktop/Android/9one/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:47:9-35
+53        android:debuggable="true"
+54        android:icon="@drawable/ic_launcher"
+54-->/home/ezenna/Desktop/Android/9one/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:48:9-45
+55        android:label="@string/app_name"
+55-->/home/ezenna/Desktop/Android/9one/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:49:9-41
+56        android:testOnly="true"
+57        android:theme="@style/AppTheme" >
+57-->/home/ezenna/Desktop/Android/9one/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:51:9-40
+58        <meta-data
+58-->/home/ezenna/Desktop/Android/9one/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:52:9-54:71
+59            android:name="com.google.android.geo.API_KEY"
+59-->/home/ezenna/Desktop/Android/9one/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:53:13-58
+60            android:value="AIzaSyDs7qvrSZRtA9Ft21z_vPSeiY8-UOBddk4" />
+60-->/home/ezenna/Desktop/Android/9one/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:54:13-68
+61
+62        <!-- 服务 -->
+63        <service
+63-->/home/ezenna/Desktop/Android/9one/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:57:9-61:19
+64            android:name="com.baidu.location.f"
+64-->/home/ezenna/Desktop/Android/9one/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:58:13-48
+65            android:enabled="true"
+65-->/home/ezenna/Desktop/Android/9one/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:59:13-35
+66            android:process=":remote" >
+66-->/home/ezenna/Desktop/Android/9one/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:60:13-38
+67        </service>
+68        <service
+68-->/home/ezenna/Desktop/Android/9one/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:62:9-63:37
+69            android:name="com.fgtit.service.PostMaster"
+69-->/home/ezenna/Desktop/Android/9one/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:62:18-61
+70            android:enabled="true" />
+70-->/home/ezenna/Desktop/Android/9one/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:63:13-35
+71
+72        <!-- USB Specify the class to receive the broadcast -->
+73        <receiver
+73-->/home/ezenna/Desktop/Android/9one/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:67:9-77:20
+74            android:name="com.fgtit.service.UsbBroadcastReceiver"
+74-->/home/ezenna/Desktop/Android/9one/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:67:19-72
+75            android:label="NetworkChangeReceiver" >
+75-->/home/ezenna/Desktop/Android/9one/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:68:13-50
+76            <intent-filter>
+76-->/home/ezenna/Desktop/Android/9one/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:69:13-72:29
+77                <action android:name="android.net.conn.CONNECTIVITY_CHANGE" />
+77-->/home/ezenna/Desktop/Android/9one/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:70:17-79
+77-->/home/ezenna/Desktop/Android/9one/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:70:25-76
+78                <action android:name="android.net.wifi.WIFI_STATE_CHANGED" />
+78-->/home/ezenna/Desktop/Android/9one/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:71:17-78
+78-->/home/ezenna/Desktop/Android/9one/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:71:25-75
+79            </intent-filter>
+80            <intent-filter>
+80-->/home/ezenna/Desktop/Android/9one/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:73:13-76:29
+81                <action android:name="NotifyUsbStartNet" />
+81-->/home/ezenna/Desktop/Android/9one/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:74:17-60
+81-->/home/ezenna/Desktop/Android/9one/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:74:25-57
+82                <action android:name="NotifyUsbStopNet" />
+82-->/home/ezenna/Desktop/Android/9one/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:75:17-59
+82-->/home/ezenna/Desktop/Android/9one/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:75:25-56
+83            </intent-filter>
+84        </receiver>
+85
+86        <!-- USB Virtual network specified service class -->
+87        <service android:name="com.fgtit.service.ConnectService" >
+87-->/home/ezenna/Desktop/Android/9one/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:80:9-81:19
+87-->/home/ezenna/Desktop/Android/9one/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:80:18-65
+88        </service>
+89        <!-- 界面 -->
+90        <activity
+90-->/home/ezenna/Desktop/Android/9one/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:83:9-91:20
+91            android:name="com.fgtit.finger.MainActivity"
+91-->/home/ezenna/Desktop/Android/9one/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:84:13-57
+92            android:label="@string/app_name" >
+92-->/home/ezenna/Desktop/Android/9one/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:85:13-45
+93            <intent-filter>
+93-->/home/ezenna/Desktop/Android/9one/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:86:13-90:29
+94                <action android:name="android.intent.action.MAIN" />
+94-->/home/ezenna/Desktop/Android/9one/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:87:17-69
+94-->/home/ezenna/Desktop/Android/9one/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:87:25-66
+95
+96                <category android:name="android.intent.category.LAUNCHER" />
+96-->/home/ezenna/Desktop/Android/9one/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:89:17-77
+96-->/home/ezenna/Desktop/Android/9one/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:89:27-74
+97            </intent-filter>
+98        </activity>
+99        <activity
+99-->/home/ezenna/Desktop/Android/9one/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:92:9-96:20
+100            android:name="com.fgtit.finger.LoginActivity"
+100-->/home/ezenna/Desktop/Android/9one/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:93:13-58
+101            android:label="@string/title_activity_login"
+101-->/home/ezenna/Desktop/Android/9one/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:94:13-57
+102            android:screenOrientation="portrait" >
+102-->/home/ezenna/Desktop/Android/9one/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:95:13-49
+103        </activity>
+104        <activity
+104-->/home/ezenna/Desktop/Android/9one/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:97:9-101:20
+105            android:name="com.fgtit.finger.MenuActivity"
+105-->/home/ezenna/Desktop/Android/9one/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:98:13-57
+106            android:label="@string/title_activity_menu"
+106-->/home/ezenna/Desktop/Android/9one/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:99:13-56
+107            android:screenOrientation="portrait" >
+107-->/home/ezenna/Desktop/Android/9one/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:100:13-49
+108        </activity>
+109        <activity
+109-->/home/ezenna/Desktop/Android/9one/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:102:9-106:20
+110            android:name="com.fgtit.finger.SignOnActivity"
+110-->/home/ezenna/Desktop/Android/9one/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:103:13-59
+111            android:configChanges="keyboardHidden|screenSize|orientation"
+111-->/home/ezenna/Desktop/Android/9one/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:105:13-74
+112            android:label="@string/title_activity_sign_on" >
+112-->/home/ezenna/Desktop/Android/9one/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:104:13-59
+113        </activity>
+114        <activity
+114-->/home/ezenna/Desktop/Android/9one/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:107:9-112:20
+115            android:name="com.fgtit.finger.SignOffActivity"
+115-->/home/ezenna/Desktop/Android/9one/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:108:13-60
+116            android:configChanges="keyboardHidden|screenSize|orientation"
+116-->/home/ezenna/Desktop/Android/9one/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:110:13-74
+117            android:label="@string/title_activity_sign_off"
+117-->/home/ezenna/Desktop/Android/9one/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:109:13-60
+118            android:screenOrientation="portrait" >
+118-->/home/ezenna/Desktop/Android/9one/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:111:13-49
+119        </activity>
+120        <activity
+120-->/home/ezenna/Desktop/Android/9one/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:113:9-118:20
+121            android:name="com.fgtit.finger.RecordsActivity"
+121-->/home/ezenna/Desktop/Android/9one/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:114:13-60
+122            android:label="@string/title_activity_records"
+122-->/home/ezenna/Desktop/Android/9one/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:115:13-59
+123            android:screenOrientation="portrait"
+123-->/home/ezenna/Desktop/Android/9one/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:116:13-49
+124            android:windowSoftInputMode="stateUnchanged" >
+124-->/home/ezenna/Desktop/Android/9one/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:117:13-57
+125        </activity>
+126        <activity
+126-->/home/ezenna/Desktop/Android/9one/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:119:9-123:20
+127            android:name="com.fgtit.finger.EmployeesActivity"
+127-->/home/ezenna/Desktop/Android/9one/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:120:13-62
+128            android:label="@string/title_activity_employees"
+128-->/home/ezenna/Desktop/Android/9one/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:121:13-61
+129            android:screenOrientation="portrait" >
+129-->/home/ezenna/Desktop/Android/9one/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:122:13-49
+130        </activity>
+131        <activity
+131-->/home/ezenna/Desktop/Android/9one/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:124:9-128:20
+132            android:name="com.fgtit.finger.EmployeeActivity"
+132-->/home/ezenna/Desktop/Android/9one/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:125:13-61
+133            android:label="@string/title_activity_employee"
+133-->/home/ezenna/Desktop/Android/9one/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:126:13-60
+134            android:screenOrientation="portrait" >
+134-->/home/ezenna/Desktop/Android/9one/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:127:13-49
+135        </activity>
+136        <activity
+136-->/home/ezenna/Desktop/Android/9one/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:129:9-133:20
+137            android:name="com.fgtit.finger.CameraExActivity"
+137-->/home/ezenna/Desktop/Android/9one/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:130:13-61
+138            android:label="@string/title_activity_capturephoto"
+138-->/home/ezenna/Desktop/Android/9one/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:131:13-64
+139            android:screenOrientation="portrait" >
+139-->/home/ezenna/Desktop/Android/9one/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:132:13-49
+140        </activity>
+141        <activity
+141-->/home/ezenna/Desktop/Android/9one/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:134:9-138:20
+142            android:name="com.fgtit.finger.UtilitiesActivity"
+142-->/home/ezenna/Desktop/Android/9one/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:135:13-62
+143            android:label="@string/title_activity_utilities"
+143-->/home/ezenna/Desktop/Android/9one/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:136:13-61
+144            android:screenOrientation="portrait" >
+144-->/home/ezenna/Desktop/Android/9one/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:137:13-49
+145        </activity>
+146        <activity
+146-->/home/ezenna/Desktop/Android/9one/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:139:9-143:20
+147            android:name="com.fgtit.finger.SystemActivity"
+147-->/home/ezenna/Desktop/Android/9one/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:140:13-59
+148            android:label="@string/title_activity_system"
+148-->/home/ezenna/Desktop/Android/9one/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:141:13-58
+149            android:screenOrientation="portrait" >
+149-->/home/ezenna/Desktop/Android/9one/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:142:13-49
+150        </activity>
+151        <activity
+151-->/home/ezenna/Desktop/Android/9one/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:144:9-148:20
+152            android:name="com.fgtit.finger.SettingsActivity"
+152-->/home/ezenna/Desktop/Android/9one/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:145:13-61
+153            android:label="@string/title_activity_settings"
+153-->/home/ezenna/Desktop/Android/9one/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:146:13-60
+154            android:screenOrientation="portrait" >
+154-->/home/ezenna/Desktop/Android/9one/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:147:13-49
+155        </activity>
+156        <activity
+156-->/home/ezenna/Desktop/Android/9one/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:149:9-155:20
+157            android:name="android.scanner.CaptureActivity"
+157-->/home/ezenna/Desktop/Android/9one/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:150:13-59
+158            android:configChanges="orientation|keyboardHidden"
+158-->/home/ezenna/Desktop/Android/9one/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:151:13-63
+159            android:screenOrientation="portrait"
+159-->/home/ezenna/Desktop/Android/9one/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:152:13-49
+160            android:theme="@android:style/Theme.NoTitleBar.Fullscreen"
+160-->/home/ezenna/Desktop/Android/9one/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:153:13-71
+161            android:windowSoftInputMode="stateAlwaysHidden" >
+161-->/home/ezenna/Desktop/Android/9one/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:154:13-60
+162        </activity>
+163        <activity
+163-->/home/ezenna/Desktop/Android/9one/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:156:9-161:20
+164            android:name="com.fgtit.finger.DeviceListActivity"
+164-->/home/ezenna/Desktop/Android/9one/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:157:13-63
+165            android:configChanges="orientation|keyboardHidden"
+165-->/home/ezenna/Desktop/Android/9one/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:158:13-63
+166            android:label="@string/title_select_device"
+166-->/home/ezenna/Desktop/Android/9one/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:159:13-56
+167            android:screenOrientation="portrait" >
+167-->/home/ezenna/Desktop/Android/9one/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:160:13-49
+168        </activity>
+169        <activity
+169-->/home/ezenna/Desktop/Android/9one/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:162:9-167:20
+170            android:name="com.fgtit.finger.EnrollActivity"
+170-->/home/ezenna/Desktop/Android/9one/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:163:13-59
+171            android:label="@string/title_activity_enroluser"
+171-->/home/ezenna/Desktop/Android/9one/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:164:13-61
+172            android:screenOrientation="portrait"
+172-->/home/ezenna/Desktop/Android/9one/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:165:13-49
+173            android:windowSoftInputMode="stateUnchanged" >
+173-->/home/ezenna/Desktop/Android/9one/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:166:13-57
+174        </activity>
+175        <activity
+175-->/home/ezenna/Desktop/Android/9one/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:168:9-172:20
+176            android:name="com.fgtit.finger.CameraActivity"
+176-->/home/ezenna/Desktop/Android/9one/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:169:13-59
+177            android:label="@string/title_activity_capturephoto"
+177-->/home/ezenna/Desktop/Android/9one/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:170:13-64
+178            android:screenOrientation="portrait" >
+178-->/home/ezenna/Desktop/Android/9one/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:171:13-49
+179        </activity>
+180        <activity
+180-->/home/ezenna/Desktop/Android/9one/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:173:9-177:20
+181            android:name="com.fgtit.finger.AdminActivity"
+181-->/home/ezenna/Desktop/Android/9one/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:174:13-58
+182            android:label="@string/title_activity_admin"
+182-->/home/ezenna/Desktop/Android/9one/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:175:13-57
+183            android:screenOrientation="portrait" >
+183-->/home/ezenna/Desktop/Android/9one/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:176:13-49
+184        </activity>
+185        <activity
+185-->/home/ezenna/Desktop/Android/9one/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:178:9-182:20
+186            android:name="com.fgtit.finger.AboutActivity"
+186-->/home/ezenna/Desktop/Android/9one/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:179:13-58
+187            android:label="@string/title_activity_about"
+187-->/home/ezenna/Desktop/Android/9one/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:181:13-57
+188            android:screenOrientation="portrait" >
+188-->/home/ezenna/Desktop/Android/9one/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:180:13-49
+189        </activity>
+190        <activity
+190-->[com.google.android.gms:play-services-base:9.8.0] /home/ezenna/.gradle/caches/transforms-2/files-2.1/5c8e876f844b72cd7a026e5db94b962e/play-services-base-9.8.0/AndroidManifest.xml:19:9-172
+191            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+191-->[com.google.android.gms:play-services-base:9.8.0] /home/ezenna/.gradle/caches/transforms-2/files-2.1/5c8e876f844b72cd7a026e5db94b962e/play-services-base-9.8.0/AndroidManifest.xml:19:19-85
+192            android:exported="false"
+192-->[com.google.android.gms:play-services-base:9.8.0] /home/ezenna/.gradle/caches/transforms-2/files-2.1/5c8e876f844b72cd7a026e5db94b962e/play-services-base-9.8.0/AndroidManifest.xml:19:146-170
+193            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+193-->[com.google.android.gms:play-services-base:9.8.0] /home/ezenna/.gradle/caches/transforms-2/files-2.1/5c8e876f844b72cd7a026e5db94b962e/play-services-base-9.8.0/AndroidManifest.xml:19:86-145
+194
+195        <meta-data
+195-->[com.google.android.gms:play-services-basement:9.8.0] /home/ezenna/.gradle/caches/transforms-2/files-2.1/6efec97df913cc5df078f02e10b1a94a/play-services-basement-9.8.0/AndroidManifest.xml:20:9-121
+196            android:name="com.google.android.gms.version"
+196-->[com.google.android.gms:play-services-basement:9.8.0] /home/ezenna/.gradle/caches/transforms-2/files-2.1/6efec97df913cc5df078f02e10b1a94a/play-services-basement-9.8.0/AndroidManifest.xml:20:20-65
+197            android:value="@integer/google_play_services_version" />
+197-->[com.google.android.gms:play-services-basement:9.8.0] /home/ezenna/.gradle/caches/transforms-2/files-2.1/6efec97df913cc5df078f02e10b1a94a/play-services-basement-9.8.0/AndroidManifest.xml:20:66-119
+198    </application>
+199
+200</manifest>

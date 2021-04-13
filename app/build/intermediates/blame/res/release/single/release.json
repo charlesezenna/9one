@@ -1,0 +1,910 @@
+[
+    {
+        "merged": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\build\\intermediates\\res\\merged\\release\\menu_system.xml.flat",
+        "source": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\src\\main\\res\\menu\\system.xml"
+    },
+    {
+        "merged": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\build\\intermediates\\res\\merged\\release\\drawable_mcuser.png.flat",
+        "source": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\src\\main\\res\\drawable\\mcuser.png"
+    },
+    {
+        "merged": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\build\\intermediates\\res\\merged\\release\\menu_employee.xml.flat",
+        "source": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\src\\main\\res\\menu\\employee.xml"
+    },
+    {
+        "merged": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_ab_transparent_fgtit.9.png.flat",
+        "source": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\src\\main\\res\\drawable-hdpi\\ab_transparent_fgtit.9.png"
+    },
+    {
+        "merged": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\build\\intermediates\\res\\merged\\release\\drawable_fingerh.jpg.flat",
+        "source": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\src\\main\\res\\drawable\\fingerh.jpg"
+    },
+    {
+        "merged": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_menu_dropdown_panel_fgtit.9.png.flat",
+        "source": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\src\\main\\res\\drawable-hdpi\\menu_dropdown_panel_fgtit.9.png"
+    },
+    {
+        "merged": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_spinner_ab_pressed_fgtit.9.png.flat",
+        "source": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\src\\main\\res\\drawable-xxhdpi\\spinner_ab_pressed_fgtit.9.png"
+    },
+    {
+        "merged": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\build\\intermediates\\res\\merged\\release\\raw_beep.ogg.flat",
+        "source": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\src\\main\\res\\raw\\beep.ogg"
+    },
+    {
+        "merged": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_tab_selected_focused_fgtit.9.png.flat",
+        "source": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\src\\main\\res\\drawable-hdpi\\tab_selected_focused_fgtit.9.png"
+    },
+    {
+        "merged": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\build\\intermediates\\res\\merged\\release\\drawable_barcode.png.flat",
+        "source": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\src\\main\\res\\drawable\\barcode.png"
+    },
+    {
+        "merged": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_spinner_ab_pressed_fgtit.9.png.flat",
+        "source": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\src\\main\\res\\drawable-mdpi\\spinner_ab_pressed_fgtit.9.png"
+    },
+    {
+        "merged": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_spinner_ab_pressed_fgtit.9.png.flat",
+        "source": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\src\\main\\res\\drawable-xhdpi\\spinner_ab_pressed_fgtit.9.png"
+    },
+    {
+        "merged": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\build\\intermediates\\res\\merged\\release\\menu_sign_off.xml.flat",
+        "source": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\src\\main\\res\\menu\\sign_off.xml"
+    },
+    {
+        "merged": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_ab_stacked_solid_fgtit.9.png.flat",
+        "source": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\src\\main\\res\\drawable-xxhdpi\\ab_stacked_solid_fgtit.9.png"
+    },
+    {
+        "merged": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\build\\intermediates\\res\\merged\\release\\drawable_btnyns.png.flat",
+        "source": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\src\\main\\res\\drawable\\btnyns.png"
+    },
+    {
+        "merged": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_list_pressed_fgtit.9.png.flat",
+        "source": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\src\\main\\res\\drawable-mdpi\\list_pressed_fgtit.9.png"
+    },
+    {
+        "merged": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_spinner_ab_pressed_fgtit.9.png.flat",
+        "source": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\src\\main\\res\\drawable-hdpi\\spinner_ab_pressed_fgtit.9.png"
+    },
+    {
+        "merged": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\build\\intermediates\\res\\merged\\release\\drawable_upload1.png.flat",
+        "source": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\src\\main\\res\\drawable\\upload1.png"
+    },
+    {
+        "merged": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_cab_background_bottom_fgtit.9.png.flat",
+        "source": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\src\\main\\res\\drawable-xxhdpi\\cab_background_bottom_fgtit.9.png"
+    },
+    {
+        "merged": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_tab_unselected_fgtit.9.png.flat",
+        "source": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\src\\main\\res\\drawable-xxhdpi\\tab_unselected_fgtit.9.png"
+    },
+    {
+        "merged": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\build\\intermediates\\res\\merged\\release\\drawable_spinner_background_ab_fgtit.xml.flat",
+        "source": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\src\\main\\res\\drawable\\spinner_background_ab_fgtit.xml"
+    },
+    {
+        "merged": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\build\\intermediates\\res\\merged\\release\\menu_records.xml.flat",
+        "source": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\src\\main\\res\\menu\\records.xml"
+    },
+    {
+        "merged": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\build\\intermediates\\res\\merged\\release\\drawable_bluetooth.png.flat",
+        "source": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\src\\main\\res\\drawable\\bluetooth.png"
+    },
+    {
+        "merged": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\build\\intermediates\\res\\merged\\release\\drawable_hail.png.flat",
+        "source": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\src\\main\\res\\drawable\\hail.png"
+    },
+    {
+        "merged": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_system.xml.flat",
+        "source": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\src\\main\\res\\layout\\activity_system.xml"
+    },
+    {
+        "merged": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_tab_selected_pressed_fgtit.9.png.flat",
+        "source": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\src\\main\\res\\drawable-mdpi\\tab_selected_pressed_fgtit.9.png"
+    },
+    {
+        "merged": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_menu.xml.flat",
+        "source": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\src\\main\\res\\layout\\activity_menu.xml"
+    },
+    {
+        "merged": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\build\\intermediates\\res\\merged\\release\\layout_list_item.xml.flat",
+        "source": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\src\\main\\res\\layout\\list_item.xml"
+    },
+    {
+        "merged": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_spinner_ab_disabled_fgtit.9.png.flat",
+        "source": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\src\\main\\res\\drawable-xxhdpi\\spinner_ab_disabled_fgtit.9.png"
+    },
+    {
+        "merged": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\build\\intermediates\\res\\merged\\release\\layout_listview_menuitem.xml.flat",
+        "source": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\src\\main\\res\\layout\\listview_menuitem.xml"
+    },
+    {
+        "merged": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_logon.xml.flat",
+        "source": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\src\\main\\res\\layout\\activity_logon.xml"
+    },
+    {
+        "merged": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_employee.xml.flat",
+        "source": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\src\\main\\res\\layout\\activity_employee.xml"
+    },
+    {
+        "merged": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_btn_cab_done_default_fgtit.9.png.flat",
+        "source": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\src\\main\\res\\drawable-mdpi\\btn_cab_done_default_fgtit.9.png"
+    },
+    {
+        "merged": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_ab_solid_fgtit.9.png.flat",
+        "source": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\src\\main\\res\\drawable-hdpi\\ab_solid_fgtit.9.png"
+    },
+    {
+        "merged": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\build\\intermediates\\res\\merged\\release\\drawable_dna_helix.png.flat",
+        "source": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\src\\main\\res\\drawable\\dna_helix.png"
+    },
+    {
+        "merged": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_scan_flashlight_normal.png.flat",
+        "source": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\src\\main\\res\\drawable-hdpi\\scan_flashlight_normal.png"
+    },
+    {
+        "merged": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_tab_selected_focused_fgtit.9.png.flat",
+        "source": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\src\\main\\res\\drawable-xxhdpi\\tab_selected_focused_fgtit.9.png"
+    },
+    {
+        "merged": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\build\\intermediates\\res\\merged\\release\\drawable_selectable_background_fgtit.xml.flat",
+        "source": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\src\\main\\res\\drawable\\selectable_background_fgtit.xml"
+    },
+    {
+        "merged": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\build\\intermediates\\res\\merged\\release\\drawable_fingerprint.png.flat",
+        "source": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\src\\main\\res\\drawable\\fingerprint.png"
+    },
+    {
+        "merged": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_ab_texture_tile_fgtit.png.flat",
+        "source": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\src\\main\\res\\drawable-mdpi\\ab_texture_tile_fgtit.png"
+    },
+    {
+        "merged": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\build\\intermediates\\res\\merged\\release\\menu_sign_on.xml.flat",
+        "source": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\src\\main\\res\\menu\\sign_on.xml"
+    },
+    {
+        "merged": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_btn_cab_done_default_fgtit.9.png.flat",
+        "source": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\src\\main\\res\\drawable-xxhdpi\\btn_cab_done_default_fgtit.9.png"
+    },
+    {
+        "merged": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_list_pressed_fgtit.9.png.flat",
+        "source": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\src\\main\\res\\drawable-xxhdpi\\list_pressed_fgtit.9.png"
+    },
+    {
+        "merged": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_ab_solid_fgtit.9.png.flat",
+        "source": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\src\\main\\res\\drawable-xhdpi\\ab_solid_fgtit.9.png"
+    },
+    {
+        "merged": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_btn_cab_done_default_fgtit.9.png.flat",
+        "source": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\src\\main\\res\\drawable-xhdpi\\btn_cab_done_default_fgtit.9.png"
+    },
+    {
+        "merged": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_tab_unselected_pressed_fgtit.9.png.flat",
+        "source": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\src\\main\\res\\drawable-hdpi\\tab_unselected_pressed_fgtit.9.png"
+    },
+    {
+        "merged": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\build\\intermediates\\res\\merged\\release\\drawable_checked_user.png.flat",
+        "source": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\src\\main\\res\\drawable\\checked_user.png"
+    },
+    {
+        "merged": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\build\\intermediates\\res\\merged\\release\\drawable_reload.png.flat",
+        "source": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\src\\main\\res\\drawable\\reload.png"
+    },
+    {
+        "merged": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_btn_cab_done_pressed_fgtit.9.png.flat",
+        "source": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\src\\main\\res\\drawable-hdpi\\btn_cab_done_pressed_fgtit.9.png"
+    },
+    {
+        "merged": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\build\\intermediates\\res\\merged\\release\\layout_dialog_updateapp.xml.flat",
+        "source": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\src\\main\\res\\layout\\dialog_updateapp.xml"
+    },
+    {
+        "merged": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_btn_cab_done_focused_fgtit.9.png.flat",
+        "source": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\src\\main\\res\\drawable-xhdpi\\btn_cab_done_focused_fgtit.9.png"
+    },
+    {
+        "merged": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_progress_primary_fgtit.9.png.flat",
+        "source": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\src\\main\\res\\drawable-xhdpi\\progress_primary_fgtit.9.png"
+    },
+    {
+        "merged": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_ab_texture_tile_fgtit.png.flat",
+        "source": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\src\\main\\res\\drawable-hdpi\\ab_texture_tile_fgtit.png"
+    },
+    {
+        "merged": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\build\\intermediates\\res\\merged\\release\\drawable_police.png.flat",
+        "source": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\src\\main\\res\\drawable\\police.png"
+    },
+    {
+        "merged": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_tab_unselected_focused_fgtit.9.png.flat",
+        "source": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\src\\main\\res\\drawable-hdpi\\tab_unselected_focused_fgtit.9.png"
+    },
+    {
+        "merged": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_about.xml.flat",
+        "source": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\src\\main\\res\\layout\\activity_about.xml"
+    },
+    {
+        "merged": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_menu_dropdown_panel_fgtit.9.png.flat",
+        "source": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\src\\main\\res\\drawable-xhdpi\\menu_dropdown_panel_fgtit.9.png"
+    },
+    {
+        "merged": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_list_focused_fgtit.9.png.flat",
+        "source": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\src\\main\\res\\drawable-xxhdpi\\list_focused_fgtit.9.png"
+    },
+    {
+        "merged": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_progress_primary_fgtit.9.png.flat",
+        "source": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\src\\main\\res\\drawable-xxhdpi\\progress_primary_fgtit.9.png"
+    },
+    {
+        "merged": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_progress_primary_fgtit.9.png.flat",
+        "source": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\src\\main\\res\\drawable-hdpi\\progress_primary_fgtit.9.png"
+    },
+    {
+        "merged": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\build\\intermediates\\res\\merged\\release\\drawable_printer.png.flat",
+        "source": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\src\\main\\res\\drawable\\printer.png"
+    },
+    {
+        "merged": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\build\\intermediates\\res\\merged\\release\\menu_main.xml.flat",
+        "source": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_ab_solid_fgtit.9.png.flat",
+        "source": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\src\\main\\res\\drawable-mdpi\\ab_solid_fgtit.9.png"
+    },
+    {
+        "merged": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_ab_bottom_solid_fgtit.9.png.flat",
+        "source": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\src\\main\\res\\drawable-xhdpi\\ab_bottom_solid_fgtit.9.png"
+    },
+    {
+        "merged": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_cab_background_bottom_fgtit.9.png.flat",
+        "source": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\src\\main\\res\\drawable-hdpi\\cab_background_bottom_fgtit.9.png"
+    },
+    {
+        "merged": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_ab_texture_tile_fgtit.png.flat",
+        "source": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\src\\main\\res\\drawable-xxhdpi\\ab_texture_tile_fgtit.png"
+    },
+    {
+        "merged": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\build\\intermediates\\res\\merged\\release\\drawable_webcam.png.flat",
+        "source": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\src\\main\\res\\drawable\\webcam.png"
+    },
+    {
+        "merged": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_ab_transparent_fgtit.9.png.flat",
+        "source": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\src\\main\\res\\drawable-xxhdpi\\ab_transparent_fgtit.9.png"
+    },
+    {
+        "merged": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_tab_unselected_focused_fgtit.9.png.flat",
+        "source": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\src\\main\\res\\drawable-xhdpi\\tab_unselected_focused_fgtit.9.png"
+    },
+    {
+        "merged": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\build\\intermediates\\res\\merged\\release\\anim_out_to_left.xml.flat",
+        "source": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\src\\main\\res\\anim\\out_to_left.xml"
+    },
+    {
+        "merged": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_spinner_ab_disabled_fgtit.9.png.flat",
+        "source": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\src\\main\\res\\drawable-hdpi\\spinner_ab_disabled_fgtit.9.png"
+    },
+    {
+        "merged": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_list_pressed_fgtit.9.png.flat",
+        "source": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\src\\main\\res\\drawable-hdpi\\list_pressed_fgtit.9.png"
+    },
+    {
+        "merged": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\build\\intermediates\\res\\merged\\release\\drawable_mgroup.png.flat",
+        "source": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\src\\main\\res\\drawable\\mgroup.png"
+    },
+    {
+        "merged": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_tab_selected_fgtit.9.png.flat",
+        "source": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\src\\main\\res\\drawable-hdpi\\tab_selected_fgtit.9.png"
+    },
+    {
+        "merged": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\build\\intermediates\\res\\merged\\release\\anim_out_to_right.xml.flat",
+        "source": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\src\\main\\res\\anim\\out_to_right.xml"
+    },
+    {
+        "merged": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_list_focused_fgtit.9.png.flat",
+        "source": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\src\\main\\res\\drawable-mdpi\\list_focused_fgtit.9.png"
+    },
+    {
+        "merged": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_admin.xml.flat",
+        "source": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\src\\main\\res\\layout\\activity_admin.xml"
+    },
+    {
+        "merged": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_ab_stacked_solid_fgtit.9.png.flat",
+        "source": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\src\\main\\res\\drawable-mdpi\\ab_stacked_solid_fgtit.9.png"
+    },
+    {
+        "merged": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_scan_photo_pressed.png.flat",
+        "source": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\src\\main\\res\\drawable-hdpi\\scan_photo_pressed.png"
+    },
+    {
+        "merged": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\build\\intermediates\\res\\merged\\release\\raw_start.wav.flat",
+        "source": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\src\\main\\res\\raw\\start.wav"
+    },
+    {
+        "merged": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_scan_fail.png.flat",
+        "source": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\src\\main\\res\\drawable-hdpi\\scan_fail.png"
+    },
+    {
+        "merged": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_tab_unselected_fgtit.9.png.flat",
+        "source": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\src\\main\\res\\drawable-xhdpi\\tab_unselected_fgtit.9.png"
+    },
+    {
+        "merged": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\build\\intermediates\\res\\merged\\release\\drawable_download.png.flat",
+        "source": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\src\\main\\res\\drawable\\download.png"
+    },
+    {
+        "merged": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_spinner_ab_default_fgtit.9.png.flat",
+        "source": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\src\\main\\res\\drawable-hdpi\\spinner_ab_default_fgtit.9.png"
+    },
+    {
+        "merged": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\build\\intermediates\\res\\merged\\release\\drawable_speaker.png.flat",
+        "source": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\src\\main\\res\\drawable\\speaker.png"
+    },
+    {
+        "merged": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\build\\intermediates\\res\\merged\\release\\drawable_mabout.png.flat",
+        "source": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\src\\main\\res\\drawable\\mabout.png"
+    },
+    {
+        "merged": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\build\\intermediates\\res\\merged\\release\\drawable_processor.png.flat",
+        "source": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\src\\main\\res\\drawable\\processor.png"
+    },
+    {
+        "merged": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\build\\intermediates\\res\\merged\\release\\drawable_ab_background_textured_fgtit.xml.flat",
+        "source": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\src\\main\\res\\drawable\\ab_background_textured_fgtit.xml"
+    },
+    {
+        "merged": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_list_focused_fgtit.9.png.flat",
+        "source": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\src\\main\\res\\drawable-xhdpi\\list_focused_fgtit.9.png"
+    },
+    {
+        "merged": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_cab_background_top_fgtit.9.png.flat",
+        "source": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\src\\main\\res\\drawable-hdpi\\cab_background_top_fgtit.9.png"
+    },
+    {
+        "merged": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_employees.xml.flat",
+        "source": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\src\\main\\res\\layout\\activity_employees.xml"
+    },
+    {
+        "merged": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\build\\intermediates\\res\\merged\\release\\layout_listview_signitem.xml.flat",
+        "source": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\src\\main\\res\\layout\\listview_signitem.xml"
+    },
+    {
+        "merged": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\build\\intermediates\\res\\merged\\release\\drawable_key.png.flat",
+        "source": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\src\\main\\res\\drawable\\key.png"
+    },
+    {
+        "merged": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_progress_secondary_fgtit.9.png.flat",
+        "source": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\src\\main\\res\\drawable-xxhdpi\\progress_secondary_fgtit.9.png"
+    },
+    {
+        "merged": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_spinner_ab_disabled_fgtit.9.png.flat",
+        "source": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\src\\main\\res\\drawable-xhdpi\\spinner_ab_disabled_fgtit.9.png"
+    },
+    {
+        "merged": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\build\\intermediates\\res\\merged\\release\\drawable_guest.png.flat",
+        "source": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\src\\main\\res\\drawable\\guest.png"
+    },
+    {
+        "merged": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_fingerprint.xml.flat",
+        "source": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\src\\main\\res\\layout\\activity_fingerprint.xml"
+    },
+    {
+        "merged": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_main.xml.flat",
+        "source": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_scan_laser.png.flat",
+        "source": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\src\\main\\res\\drawable-hdpi\\scan_laser.png"
+    },
+    {
+        "merged": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_tab_unselected_pressed_fgtit.9.png.flat",
+        "source": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\src\\main\\res\\drawable-xxhdpi\\tab_unselected_pressed_fgtit.9.png"
+    },
+    {
+        "merged": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\build\\intermediates\\res\\merged\\release\\drawable_fingern.jpg.flat",
+        "source": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\src\\main\\res\\drawable\\fingern.jpg"
+    },
+    {
+        "merged": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_tab_selected_pressed_fgtit.9.png.flat",
+        "source": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\src\\main\\res\\drawable-hdpi\\tab_selected_pressed_fgtit.9.png"
+    },
+    {
+        "merged": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_progress_bg_fgtit.9.png.flat",
+        "source": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\src\\main\\res\\drawable-hdpi\\progress_bg_fgtit.9.png"
+    },
+    {
+        "merged": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\build\\intermediates\\res\\merged\\release\\drawable_btn_cab_done_fgtit.xml.flat",
+        "source": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\src\\main\\res\\drawable\\btn_cab_done_fgtit.xml"
+    },
+    {
+        "merged": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_tab_selected_pressed_fgtit.9.png.flat",
+        "source": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\src\\main\\res\\drawable-xhdpi\\tab_selected_pressed_fgtit.9.png"
+    },
+    {
+        "merged": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_scan_photo_normal.png.flat",
+        "source": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\src\\main\\res\\drawable-hdpi\\scan_photo_normal.png"
+    },
+    {
+        "merged": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_cab_background_top_fgtit.9.png.flat",
+        "source": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\src\\main\\res\\drawable-mdpi\\cab_background_top_fgtit.9.png"
+    },
+    {
+        "merged": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_progress_bg_fgtit.9.png.flat",
+        "source": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\src\\main\\res\\drawable-mdpi\\progress_bg_fgtit.9.png"
+    },
+    {
+        "merged": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\build\\intermediates\\res\\merged\\release\\menu_utilities.xml.flat",
+        "source": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\src\\main\\res\\menu\\utilities.xml"
+    },
+    {
+        "merged": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\build\\intermediates\\res\\merged\\release\\drawable_download1.png.flat",
+        "source": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\src\\main\\res\\drawable\\download1.png"
+    },
+    {
+        "merged": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_scan_corner_top_right.png.flat",
+        "source": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\src\\main\\res\\drawable-hdpi\\scan_corner_top_right.png"
+    },
+    {
+        "merged": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\build\\intermediates\\res\\merged\\release\\drawable_restart.png.flat",
+        "source": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\src\\main\\res\\drawable\\restart.png"
+    },
+    {
+        "merged": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\build\\intermediates\\res\\merged\\release\\drawable_battery.png.flat",
+        "source": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\src\\main\\res\\drawable\\battery.png"
+    },
+    {
+        "merged": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\build\\intermediates\\res\\merged\\release\\menu_enroll.xml.flat",
+        "source": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\src\\main\\res\\menu\\enroll.xml"
+    },
+    {
+        "merged": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_enroll.xml.flat",
+        "source": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\src\\main\\res\\layout\\activity_enroll.xml"
+    },
+    {
+        "merged": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_scan_flashlight_pressed.png.flat",
+        "source": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\src\\main\\res\\drawable-hdpi\\scan_flashlight_pressed.png"
+    },
+    {
+        "merged": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_ab_bottom_solid_fgtit.9.png.flat",
+        "source": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\src\\main\\res\\drawable-mdpi\\ab_bottom_solid_fgtit.9.png"
+    },
+    {
+        "merged": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\build\\intermediates\\res\\merged\\release\\drawable_msystem.png.flat",
+        "source": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\src\\main\\res\\drawable\\msystem.png"
+    },
+    {
+        "merged": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_ab_stacked_solid_fgtit.9.png.flat",
+        "source": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\src\\main\\res\\drawable-xhdpi\\ab_stacked_solid_fgtit.9.png"
+    },
+    {
+        "merged": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_scan_corner_bottom_right.png.flat",
+        "source": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\src\\main\\res\\drawable-hdpi\\scan_corner_bottom_right.png"
+    },
+    {
+        "merged": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_cab_background_bottom_fgtit.9.png.flat",
+        "source": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\src\\main\\res\\drawable-xhdpi\\cab_background_bottom_fgtit.9.png"
+    },
+    {
+        "merged": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_btn_cab_done_pressed_fgtit.9.png.flat",
+        "source": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\src\\main\\res\\drawable-xhdpi\\btn_cab_done_pressed_fgtit.9.png"
+    },
+    {
+        "merged": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_tab_unselected_focused_fgtit.9.png.flat",
+        "source": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\src\\main\\res\\drawable-mdpi\\tab_unselected_focused_fgtit.9.png"
+    },
+    {
+        "merged": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\build\\intermediates\\res\\merged\\release\\drawable_button_style_red.xml.flat",
+        "source": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\src\\main\\res\\drawable\\button_style_red.xml"
+    },
+    {
+        "merged": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_ab_transparent_fgtit.9.png.flat",
+        "source": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\src\\main\\res\\drawable-xhdpi\\ab_transparent_fgtit.9.png"
+    },
+    {
+        "merged": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\build\\intermediates\\res\\merged\\release\\layout_listview_empitem.xml.flat",
+        "source": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\src\\main\\res\\layout\\listview_empitem.xml"
+    },
+    {
+        "merged": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\build\\intermediates\\res\\merged\\release\\drawable_upload.png.flat",
+        "source": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\src\\main\\res\\drawable\\upload.png"
+    },
+    {
+        "merged": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_progress_bg_fgtit.9.png.flat",
+        "source": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\src\\main\\res\\drawable-xhdpi\\progress_bg_fgtit.9.png"
+    },
+    {
+        "merged": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\build\\intermediates\\res\\merged\\release\\layout_device_name.xml.flat",
+        "source": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\src\\main\\res\\layout\\device_name.xml"
+    },
+    {
+        "merged": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_tab_selected_fgtit.9.png.flat",
+        "source": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\src\\main\\res\\drawable-mdpi\\tab_selected_fgtit.9.png"
+    },
+    {
+        "merged": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_list_focused_fgtit.9.png.flat",
+        "source": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\src\\main\\res\\drawable-hdpi\\list_focused_fgtit.9.png"
+    },
+    {
+        "merged": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\build\\intermediates\\res\\merged\\release\\drawable_play.png.flat",
+        "source": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\src\\main\\res\\drawable\\play.png"
+    },
+    {
+        "merged": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_progress_bg_fgtit.9.png.flat",
+        "source": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\src\\main\\res\\drawable-xxhdpi\\progress_bg_fgtit.9.png"
+    },
+    {
+        "merged": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_progress_secondary_fgtit.9.png.flat",
+        "source": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\src\\main\\res\\drawable-hdpi\\progress_secondary_fgtit.9.png"
+    },
+    {
+        "merged": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_cab_background_top_fgtit.9.png.flat",
+        "source": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\src\\main\\res\\drawable-xhdpi\\cab_background_top_fgtit.9.png"
+    },
+    {
+        "merged": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_btn_cab_done_focused_fgtit.9.png.flat",
+        "source": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\src\\main\\res\\drawable-xxhdpi\\btn_cab_done_focused_fgtit.9.png"
+    },
+    {
+        "merged": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\build\\intermediates\\res\\merged\\release\\drawable_scan_photo.xml.flat",
+        "source": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\src\\main\\res\\drawable\\scan_photo.xml"
+    },
+    {
+        "merged": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\build\\intermediates\\res\\merged\\release\\menu_login.xml.flat",
+        "source": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\src\\main\\res\\menu\\login.xml"
+    },
+    {
+        "merged": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\build\\intermediates\\res\\merged\\release\\drawable_generate.png.flat",
+        "source": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\src\\main\\res\\drawable\\generate.png"
+    },
+    {
+        "merged": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_spinner_ab_disabled_fgtit.9.png.flat",
+        "source": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\src\\main\\res\\drawable-mdpi\\spinner_ab_disabled_fgtit.9.png"
+    },
+    {
+        "merged": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_ab_bottom_solid_fgtit.9.png.flat",
+        "source": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\src\\main\\res\\drawable-hdpi\\ab_bottom_solid_fgtit.9.png"
+    },
+    {
+        "merged": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\build\\intermediates\\res\\merged\\release\\menu_admin.xml.flat",
+        "source": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\src\\main\\res\\menu\\admin.xml"
+    },
+    {
+        "merged": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\build\\intermediates\\res\\merged\\release\\drawable_icon_geo.png.flat",
+        "source": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\src\\main\\res\\drawable\\icon_geo.png"
+    },
+    {
+        "merged": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\build\\intermediates\\res\\merged\\release\\drawable_list.png.flat",
+        "source": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\src\\main\\res\\drawable\\list.png"
+    },
+    {
+        "merged": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\build\\intermediates\\res\\merged\\release\\drawable_rfid.png.flat",
+        "source": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\src\\main\\res\\drawable\\rfid.png"
+    },
+    {
+        "merged": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_progress_secondary_fgtit.9.png.flat",
+        "source": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\src\\main\\res\\drawable-mdpi\\progress_secondary_fgtit.9.png"
+    },
+    {
+        "merged": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_progress_secondary_fgtit.9.png.flat",
+        "source": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\src\\main\\res\\drawable-xhdpi\\progress_secondary_fgtit.9.png"
+    },
+    {
+        "merged": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\build\\intermediates\\res\\merged\\release\\raw_dtmfstar.wav.flat",
+        "source": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\src\\main\\res\\raw\\dtmfstar.wav"
+    },
+    {
+        "merged": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_btn_cab_done_pressed_fgtit.9.png.flat",
+        "source": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\src\\main\\res\\drawable-mdpi\\btn_cab_done_pressed_fgtit.9.png"
+    },
+    {
+        "merged": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\build\\intermediates\\res\\merged\\release\\drawable_btnyn.png.flat",
+        "source": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\src\\main\\res\\drawable\\btnyn.png"
+    },
+    {
+        "merged": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_ab_transparent_fgtit.9.png.flat",
+        "source": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\src\\main\\res\\drawable-mdpi\\ab_transparent_fgtit.9.png"
+    },
+    {
+        "merged": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_tab_selected_fgtit.9.png.flat",
+        "source": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\src\\main\\res\\drawable-xxhdpi\\tab_selected_fgtit.9.png"
+    },
+    {
+        "merged": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\build\\intermediates\\res\\merged\\release\\drawable_scan_flashlight.xml.flat",
+        "source": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\src\\main\\res\\drawable\\scan_flashlight.xml"
+    },
+    {
+        "merged": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_brcapture.xml.flat",
+        "source": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\src\\main\\res\\layout\\activity_brcapture.xml"
+    },
+    {
+        "merged": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_sign_remote.xml.flat",
+        "source": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\src\\main\\res\\layout\\activity_sign_remote.xml"
+    },
+    {
+        "merged": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_cab_background_top_fgtit.9.png.flat",
+        "source": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\src\\main\\res\\drawable-xxhdpi\\cab_background_top_fgtit.9.png"
+    },
+    {
+        "merged": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\build\\intermediates\\res\\merged\\release\\drawable_tab_indicator_ab_fgtit.xml.flat",
+        "source": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\src\\main\\res\\drawable\\tab_indicator_ab_fgtit.xml"
+    },
+    {
+        "merged": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_spinner_ab_focused_fgtit.9.png.flat",
+        "source": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\src\\main\\res\\drawable-xxhdpi\\spinner_ab_focused_fgtit.9.png"
+    },
+    {
+        "merged": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_btn_cab_done_focused_fgtit.9.png.flat",
+        "source": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\src\\main\\res\\drawable-hdpi\\btn_cab_done_focused_fgtit.9.png"
+    },
+    {
+        "merged": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_btn_cab_done_focused_fgtit.9.png.flat",
+        "source": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\src\\main\\res\\drawable-mdpi\\btn_cab_done_focused_fgtit.9.png"
+    },
+    {
+        "merged": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_spinner_ab_default_fgtit.9.png.flat",
+        "source": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\src\\main\\res\\drawable-mdpi\\spinner_ab_default_fgtit.9.png"
+    },
+    {
+        "merged": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\build\\intermediates\\res\\merged\\release\\drawable_engineering.png.flat",
+        "source": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\src\\main\\res\\drawable\\engineering.png"
+    },
+    {
+        "merged": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_menu_dropdown_panel_fgtit.9.png.flat",
+        "source": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\src\\main\\res\\drawable-xxhdpi\\menu_dropdown_panel_fgtit.9.png"
+    },
+    {
+        "merged": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\build\\intermediates\\res\\merged\\release\\raw_dong.wav.flat",
+        "source": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\src\\main\\res\\raw\\dong.wav"
+    },
+    {
+        "merged": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_spinner_ab_default_fgtit.9.png.flat",
+        "source": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\src\\main\\res\\drawable-xhdpi\\spinner_ab_default_fgtit.9.png"
+    },
+    {
+        "merged": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\build\\intermediates\\res\\merged\\release\\layout_device_list.xml.flat",
+        "source": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\src\\main\\res\\layout\\device_list.xml"
+    },
+    {
+        "merged": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_thumb_unfocus.png.flat",
+        "source": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\src\\main\\res\\drawable-hdpi\\thumb_unfocus.png"
+    },
+    {
+        "merged": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\build\\intermediates\\res\\merged\\release\\layout_camera_activity.xml.flat",
+        "source": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\src\\main\\res\\layout\\camera_activity.xml"
+    },
+    {
+        "merged": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\build\\intermediates\\res\\merged\\release\\drawable_hibernate.png.flat",
+        "source": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\src\\main\\res\\drawable\\hibernate.png"
+    },
+    {
+        "merged": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\build\\intermediates\\res\\merged\\release\\anim_in_from_right.xml.flat",
+        "source": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\src\\main\\res\\anim\\in_from_right.xml"
+    },
+    {
+        "merged": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\build\\intermediates\\res\\merged\\release\\layout_dialog_enrolfinger.xml.flat",
+        "source": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\src\\main\\res\\layout\\dialog_enrolfinger.xml"
+    },
+    {
+        "merged": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_btn_cab_done_pressed_fgtit.9.png.flat",
+        "source": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\src\\main\\res\\drawable-xxhdpi\\btn_cab_done_pressed_fgtit.9.png"
+    },
+    {
+        "merged": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\build\\intermediates\\res\\merged\\release\\drawable_services.png.flat",
+        "source": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\src\\main\\res\\drawable\\services.png"
+    },
+    {
+        "merged": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_tab_selected_fgtit.9.png.flat",
+        "source": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\src\\main\\res\\drawable-xhdpi\\tab_selected_fgtit.9.png"
+    },
+    {
+        "merged": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_menu_dropdown_panel_fgtit.9.png.flat",
+        "source": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\src\\main\\res\\drawable-mdpi\\menu_dropdown_panel_fgtit.9.png"
+    },
+    {
+        "merged": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_list_pressed_fgtit.9.png.flat",
+        "source": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\src\\main\\res\\drawable-xhdpi\\list_pressed_fgtit.9.png"
+    },
+    {
+        "merged": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_records.xml.flat",
+        "source": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\src\\main\\res\\layout\\activity_records.xml"
+    },
+    {
+        "merged": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\build\\intermediates\\res\\merged\\release\\drawable_pause.png.flat",
+        "source": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\src\\main\\res\\drawable\\pause.png"
+    },
+    {
+        "merged": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_tab_selected_pressed_fgtit.9.png.flat",
+        "source": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\src\\main\\res\\drawable-xxhdpi\\tab_selected_pressed_fgtit.9.png"
+    },
+    {
+        "merged": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_utilities.xml.flat",
+        "source": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\src\\main\\res\\layout\\activity_utilities.xml"
+    },
+    {
+        "merged": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_scan_history_pressed.png.flat",
+        "source": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\src\\main\\res\\drawable-hdpi\\scan_history_pressed.png"
+    },
+    {
+        "merged": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\build\\intermediates\\res\\merged\\release\\layout_listview_personitem.xml.flat",
+        "source": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\src\\main\\res\\layout\\listview_personitem.xml"
+    },
+    {
+        "merged": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_btn_cab_done_default_fgtit.9.png.flat",
+        "source": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\src\\main\\res\\drawable-hdpi\\btn_cab_done_default_fgtit.9.png"
+    },
+    {
+        "merged": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_progress_primary_fgtit.9.png.flat",
+        "source": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\src\\main\\res\\drawable-mdpi\\progress_primary_fgtit.9.png"
+    },
+    {
+        "merged": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_spinner_ab_default_fgtit.9.png.flat",
+        "source": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\src\\main\\res\\drawable-xxhdpi\\spinner_ab_default_fgtit.9.png"
+    },
+    {
+        "merged": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_spinner_ab_focused_fgtit.9.png.flat",
+        "source": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\src\\main\\res\\drawable-xhdpi\\spinner_ab_focused_fgtit.9.png"
+    },
+    {
+        "merged": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_ab_bottom_solid_fgtit.9.png.flat",
+        "source": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\src\\main\\res\\drawable-xxhdpi\\ab_bottom_solid_fgtit.9.png"
+    },
+    {
+        "merged": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_tab_unselected_pressed_fgtit.9.png.flat",
+        "source": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\src\\main\\res\\drawable-mdpi\\tab_unselected_pressed_fgtit.9.png"
+    },
+    {
+        "merged": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_captureex.xml.flat",
+        "source": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\src\\main\\res\\layout\\activity_captureex.xml"
+    },
+    {
+        "merged": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\build\\intermediates\\res\\merged\\release\\drawable_msign.png.flat",
+        "source": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\src\\main\\res\\drawable\\msign.png"
+    },
+    {
+        "merged": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\build\\intermediates\\res\\merged\\release\\drawable_mlist.png.flat",
+        "source": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\src\\main\\res\\drawable\\mlist.png"
+    },
+    {
+        "merged": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\build\\intermediates\\res\\merged\\release\\drawable_about.png.flat",
+        "source": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\src\\main\\res\\drawable\\about.png"
+    },
+    {
+        "merged": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\build\\intermediates\\res\\merged\\release\\raw_stop.wav.flat",
+        "source": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\src\\main\\res\\raw\\stop.wav"
+    },
+    {
+        "merged": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\build\\intermediates\\res\\merged\\release\\drawable_group.png.flat",
+        "source": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\src\\main\\res\\drawable\\group.png"
+    },
+    {
+        "merged": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_tab_unselected_pressed_fgtit.9.png.flat",
+        "source": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\src\\main\\res\\drawable-xhdpi\\tab_unselected_pressed_fgtit.9.png"
+    },
+    {
+        "merged": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\build\\intermediates\\res\\merged\\release\\raw_dtmfpound.wav.flat",
+        "source": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\src\\main\\res\\raw\\dtmfpound.wav"
+    },
+    {
+        "merged": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\build\\intermediates\\res\\merged\\release\\anim_in_from_left.xml.flat",
+        "source": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\src\\main\\res\\anim\\in_from_left.xml"
+    },
+    {
+        "merged": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\build\\intermediates\\res\\merged\\release\\menu_employees.xml.flat",
+        "source": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\src\\main\\res\\menu\\employees.xml"
+    },
+    {
+        "merged": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_sign_local.xml.flat",
+        "source": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\src\\main\\res\\layout\\activity_sign_local.xml"
+    },
+    {
+        "merged": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_tab_selected_focused_fgtit.9.png.flat",
+        "source": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\src\\main\\res\\drawable-xhdpi\\tab_selected_focused_fgtit.9.png"
+    },
+    {
+        "merged": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_spinner_ab_focused_fgtit.9.png.flat",
+        "source": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\src\\main\\res\\drawable-mdpi\\spinner_ab_focused_fgtit.9.png"
+    },
+    {
+        "merged": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_tab_unselected_fgtit.9.png.flat",
+        "source": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\src\\main\\res\\drawable-mdpi\\tab_unselected_fgtit.9.png"
+    },
+    {
+        "merged": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\build\\intermediates\\res\\merged\\release\\drawable_view_details.png.flat",
+        "source": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\src\\main\\res\\drawable\\view_details.png"
+    },
+    {
+        "merged": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\build\\intermediates\\res\\merged\\release\\drawable_wifi.png.flat",
+        "source": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\src\\main\\res\\drawable\\wifi.png"
+    },
+    {
+        "merged": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_cab_background_bottom_fgtit.9.png.flat",
+        "source": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\src\\main\\res\\drawable-mdpi\\cab_background_bottom_fgtit.9.png"
+    },
+    {
+        "merged": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\build\\intermediates\\res\\merged\\release\\menu_capture.xml.flat",
+        "source": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\src\\main\\res\\menu\\capture.xml"
+    },
+    {
+        "merged": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\build\\intermediates\\res\\merged\\release\\drawable_change_user.png.flat",
+        "source": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\src\\main\\res\\drawable\\change_user.png"
+    },
+    {
+        "merged": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\build\\intermediates\\res\\merged\\release\\xml_setserver.xml.flat",
+        "source": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\src\\main\\res\\xml\\setserver.xml"
+    },
+    {
+        "merged": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\build\\intermediates\\res\\merged\\release\\drawable_dashboard.png.flat",
+        "source": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\src\\main\\res\\drawable\\dashboard.png"
+    },
+    {
+        "merged": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_tab_unselected_focused_fgtit.9.png.flat",
+        "source": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\src\\main\\res\\drawable-xxhdpi\\tab_unselected_focused_fgtit.9.png"
+    },
+    {
+        "merged": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_scan_history_normal.png.flat",
+        "source": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\src\\main\\res\\drawable-hdpi\\scan_history_normal.png"
+    },
+    {
+        "merged": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_ab_stacked_solid_fgtit.9.png.flat",
+        "source": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\src\\main\\res\\drawable-hdpi\\ab_stacked_solid_fgtit.9.png"
+    },
+    {
+        "merged": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_ab_solid_fgtit.9.png.flat",
+        "source": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\src\\main\\res\\drawable-xxhdpi\\ab_solid_fgtit.9.png"
+    },
+    {
+        "merged": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\build\\intermediates\\res\\merged\\release\\layout_dialog_postdata.xml.flat",
+        "source": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\src\\main\\res\\layout\\dialog_postdata.xml"
+    },
+    {
+        "merged": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\build\\intermediates\\res\\merged\\release\\drawable_lock.png.flat",
+        "source": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\src\\main\\res\\drawable\\lock.png"
+    },
+    {
+        "merged": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_tab_unselected_fgtit.9.png.flat",
+        "source": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\src\\main\\res\\drawable-hdpi\\tab_unselected_fgtit.9.png"
+    },
+    {
+        "merged": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_scan_corner_bottom_left.png.flat",
+        "source": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\src\\main\\res\\drawable-hdpi\\scan_corner_bottom_left.png"
+    },
+    {
+        "merged": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_scan_corner_top_left.png.flat",
+        "source": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\src\\main\\res\\drawable-hdpi\\scan_corner_top_left.png"
+    },
+    {
+        "merged": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_tab_selected_focused_fgtit.9.png.flat",
+        "source": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\src\\main\\res\\drawable-mdpi\\tab_selected_focused_fgtit.9.png"
+    },
+    {
+        "merged": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\build\\intermediates\\res\\merged\\release\\drawable_usb.png.flat",
+        "source": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\src\\main\\res\\drawable\\usb.png"
+    },
+    {
+        "merged": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\build\\intermediates\\res\\merged\\release\\drawable_progress_horizontal_fgtit.xml.flat",
+        "source": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\src\\main\\res\\drawable\\progress_horizontal_fgtit.xml"
+    },
+    {
+        "merged": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_ab_texture_tile_fgtit.png.flat",
+        "source": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\src\\main\\res\\drawable-xhdpi\\ab_texture_tile_fgtit.png"
+    },
+    {
+        "merged": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_spinner_ab_focused_fgtit.9.png.flat",
+        "source": "C:\\Android\\9one\\OnePass-Compatible-Seven-AS\\app\\src\\main\\res\\drawable-hdpi\\spinner_ab_focused_fgtit.9.png"
+    }
+]
